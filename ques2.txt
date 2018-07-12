@@ -1,0 +1,5 @@
+import numpy as np
+arr= np.random.random((20,1))
+print("Random Numbers are:\n",arr)
+print("Standrad Deviation Of these numbers is:",np.std(arr))
+print("Variance Of These numbers is:",np.var(arr))

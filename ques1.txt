@@ -1,0 +1,4 @@
+import numpy as np
+arr= np.random.random((10,1))
+print("Random Numbers:\n",arr)
+print("Mean Of These Numbers is:",np.mean(arr))
